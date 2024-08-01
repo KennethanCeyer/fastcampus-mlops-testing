@@ -1,4 +1,4 @@
-from main import get_slot_value
+from utils import get_slot_value
 
 
 def test_get_slot_value():
